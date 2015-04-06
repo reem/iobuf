@@ -70,3 +70,4 @@ mod impls;
 mod ringbuf;
 mod bufspan;
 mod appendbuf;
+mod primint;
